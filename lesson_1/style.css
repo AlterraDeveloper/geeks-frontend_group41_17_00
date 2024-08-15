@@ -1,0 +1,14 @@
+button {
+  /* outline: none; */
+  border: none;
+  background-color: blue;
+  padding: 20px;
+  width: 200px;
+  height: 50px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
